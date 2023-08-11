@@ -1,0 +1,1 @@
+craftingTable.addShaped("fuse_soul", <item:bleach_vibes:sealed_hogyoku>, [[<item:bleach_vibes:soul_core>, <item:bleach_vibes:stronger_reishi_cloth>, <item:bleach_vibes:soul_core>], [<item:bleach_vibes:core>, <item:bleach_vibes:soul_core>, <item:bleachawaken:hogyoku_core>], [<item:bleach_vibes:soul_core>, <item:bleach_vibes:stronger_reishi_cloth>, <item:bleach_vibes:soul_core>]]);

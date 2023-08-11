@@ -1,0 +1,1 @@
+craftingTable.addShapeless("dense_reishi", <item:bleachawaken:condense_reishi>, [<item:bleachawaken:reishi>   * 9]);

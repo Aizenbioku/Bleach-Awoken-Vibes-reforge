@@ -1,0 +1,1 @@
+craftingTable.removeByName("bleach_vibes:hogyoku_craft");

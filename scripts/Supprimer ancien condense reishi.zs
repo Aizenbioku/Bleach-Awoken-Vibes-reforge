@@ -1,0 +1,1 @@
+craftingTable.removeByName("bleachawaken:condense_reishi_recipe");

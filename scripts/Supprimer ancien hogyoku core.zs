@@ -1,0 +1,1 @@
+craftingTable.removeByName("bleachawaken:hogyoku_core_recipe");
