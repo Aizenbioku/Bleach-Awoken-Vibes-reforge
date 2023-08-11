@@ -1,0 +1,1 @@
+craftingTable.addShaped("unseal_hogyoku", <item:bleach_vibes:hogyoku>, [[<item:minecraft:air>, <item:bleach_vibes:sealed_hogyoku>, <item:minecraft:air>], [<item:minecraft:air>, <item:bleach_vibes:sokyoku>, <item:minecraft:air>], [<item:minecraft:air>, <item:bleachawaken:hogyoku>, <item:minecraft:air>]]);
