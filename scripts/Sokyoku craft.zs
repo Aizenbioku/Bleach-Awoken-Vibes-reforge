@@ -1,0 +1,1 @@
+craftingTable.addShaped("sokyokueasy", <item:bleach_vibes:sokyoku>, [[<item:minecraft:air>, <item:bleach_vibes:seal>, <item:minecraft:air>], [<item:minecraft:air>, <item:bleach_vibes:reishi_sword>, <item:minecraft:air>], [<item:minecraft:air>, <item:bleach_vibes:advanced_reishi_collector>, <item:minecraft:air>]]);
